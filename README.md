@@ -2,7 +2,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/UCB-VjWMHBD9IUEvHZ0mInZQ)](https://www.youtube.com/channel/UCB-VjWMHBD9IUEvHZ0mInZQ)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudheer-nomula-776500102/)](https://www.linkedin.com/in/sudheer-nomula-776500102/)
+[![Linkedin Badge](https://img.shields.io/badge/-sudheer-nomula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudheer-nomula-776500102/)](https://www.linkedin.com/in/sudheer-nomula-776500102/)
 
 
 
